@@ -10,5 +10,3 @@ class FillerText extends React.Component {
 }
 
 export default FillerText;
-
-ReactDOM.render(<FillerText />, document.getElementById("global"));

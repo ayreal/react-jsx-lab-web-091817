@@ -1,5 +1,4 @@
 import React from "react";
-import ReactDOM from "react-dom";
 import FillerText from "./FillerText";
 
 class Webpage extends React.Component {
@@ -15,5 +14,3 @@ class Webpage extends React.Component {
 }
 
 export default Webpage;
-
-ReactDOM.render(<Webpage />, document.getElementById("global"));

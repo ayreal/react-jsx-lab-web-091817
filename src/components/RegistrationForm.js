@@ -14,5 +14,3 @@ class RegistrationForm extends React.Component {
 }
 
 export default RegistrationForm;
-
-ReactDOM.render(<RegistrationForm />, document.getElementById("global"));
